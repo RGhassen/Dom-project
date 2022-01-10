@@ -1,0 +1,89 @@
+*{
+    background: wheat;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    padding-left: 90px;
+    margin-top: 25px;
+    width: 135px;
+    border-radius: 100px;
+
+}
+a:hover{
+    color: white;
+}
+a{
+    color: rgb(124, 73, 73);
+    font-size: 24px;
+    margin: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+h1{
+    padding-left: 58px;
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: rgb(109, 81, 81);
+    margin-top: 84px;
+}
+.product{
+    display: flex;
+    justify-content: space-around;
+    background: white;
+    margin-bottom: 14px;
+}
+.img-1{
+    width: 84px;
+}
+div{
+    background: white;
+}
+h2{
+    background: white;
+}
+.del{
+    margin-top: 53px;
+}
+span{
+    background: transparent;
+    font-size: 23px;
+
+}
+#tot{
+    display: flex;
+    margin-bottom: 10px;
+}
+p{
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 62px;
+}
+.ord{
+    margin-top: 39px;
+    display: flex;
+    color: red;
+    justify-content: center;
+    background: black;
+    margin-bottom: 56px;
+}
+.ord-p{
+    font-size: 32px;
+    letter-spacing: 17px;
+    margin-top: 205px;
+}
+.ord-h1{
+    color: green;
+    font-size: 59px;
+    margin-left: 74px;
+}
+
+.like{
+    background: white;
+    width: 26px;
+    filter: grayscale(1);
+    cursor: pointer;
+}
